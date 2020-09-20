@@ -13,7 +13,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 **EXs:**
 
-# the largest headign ( one #) 
+# the largest heading ( one #) 
 ###### the smallest heading (six #)
 
 
@@ -38,7 +38,7 @@ EX:
 
 ` git push origin master `
 
-- To format code or text into its own distinct block, use triple backticks (```) block of codes (```) ***without the parantheses***
+- To format code or text into its own distinct block, use triple backticks ` ``` ` block of codes ` ``` ` ***without the parantheses***
 
 EX:
 
