@@ -1,12 +1,47 @@
-## Welcome to GitHub Pages
+# Welcome to My Repo GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/MHD22/reading-notes/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+You can use the [learn how to use markdown](https://github.com/MHD22/reading-notes/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+
+## To create a heading, add one to six # 
+( one # ) is the larger header.
+
+**EXs:**
+
+# the largest headign ( one #) 
+###### the smallest heading (six #)
+
+
+## styling the text:
+- for bold text use ** some text ** (without spaces between) EX: (**Helloo I'm bold**)   Or you can use __ some text __ (two under scores) instead of stars.
+
+- for italic text use * some text * (without spaces between) EX: (*Helloo I'm italic*)   Or you can use _ some text _ (one under score) instead of star.
+
+- for bold and nested italic text use ** some text to be bold and _ text to be italic and bold _ here it is bold again ** (without spaces between) EX: (**Helloo I'm bold _and I'm italic with bold_ here I'm just bold again**) .
+
+- for all bold and italic use *** some text to be both italic and gold *** EX: ( ***helloo, I'm bold and italic text*** ).
+
+- you can qouting the text using >this is a qoute (with space after '>' directly and it should be on a new line).
+
+EX:
+
+> this is a qoute.
+
+- you can qouting the code using backticks (``)  
+
+EX: 
+
+` git push origin master `
+
+- To format code or text into its own distinct block, use triple backticks (```) block of codes (```) ***without the parantheses***
+
+EX:
 
 ```markdown
 Syntax highlighted code block
@@ -15,23 +50,36 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-- Bulleted
+- Bulleted ( or using * )
 - List
 
 1. Numbered
 2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+
+[Link](url)
+
+and 
+
+![Image](src)
 ```
+Task lists:
+```
+- [x] Finish my changes
+- [ ] Push my commits to GitHub
+- [ ] Open a pull request
+```
+EX:
+
+- [x] Finish my changes
+- [ ] Push my commits to GitHub
+- [ ] Open a pull request
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MHD22/reading-notes/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+## Thanks for your time.
