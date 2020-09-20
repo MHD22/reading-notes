@@ -7,16 +7,16 @@
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 
-## To create a heading, add one to six # 
+## * To create a heading, add one to six # 
 ( one # ) is the larger header.
 
 **EXs:**
-
+-------
 # the largest heading ( one #) 
 ###### the smallest heading (six #)
+--------
 
-
-## styling the text:
+## * styling the text:
 - for bold text use ** some text ** (without spaces between) EX: (**Helloo I'm bold**)   Or you can use __ some text __ (two under scores) instead of stars.
 
 - for italic text use * some text * (without spaces between) EX: (*Helloo I'm italic*)   Or you can use _ some text _ (one under score) instead of star.
@@ -62,7 +62,7 @@ and
 
 ![Image](src)
 ```
-Task lists:
+* Task lists:
 ```
 - [x] Finish my changes
 - [ ] Push my commits to GitHub
