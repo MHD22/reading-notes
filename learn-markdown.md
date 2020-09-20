@@ -1,7 +1,6 @@
 # Welcome to My READING_NOTES  GitHub Repo.
 
-You can use the [learn how to use markdown](https://github.com/MHD22/reading-notes/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
+## ***rules and principles to Learn the Markdown.***
 
 ### Markdown
 
