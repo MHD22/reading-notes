@@ -38,7 +38,7 @@ EX:
 
 ` git push origin master `
 
-- To format code or text into its own distinct block, use triple backticks ` ``` ` block of codes ` ``` ` ***without the parantheses***
+- To format code or text into its own distinct block, use triple backticks
 
 EX:
 
