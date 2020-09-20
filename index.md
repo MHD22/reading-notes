@@ -23,6 +23,8 @@
 3.If you can't find some solutions, use the magic word (***...yet***). yes you did not find or solve it *yet* but of course you will do it, just keep trying.
 
 # __________________________________________________
+you can read more about growth mindset from [Here](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
+# __________________________________________________
 
 
 
