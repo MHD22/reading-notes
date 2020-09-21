@@ -1,3 +1,6 @@
+------------- [Return To The Home Page](https://mhd22.github.io/reading-notes/growth_mindset)
+
+
 # What is a growth mindset?
 
 - A growth mindset is a one who believe that the talent and intelligence are just the starting point.
