@@ -44,7 +44,7 @@ you need something called workflow(acp):
 
 ## Unstage changes:
 you can undo the changes that you have added, and you don't want to commit them:
-* `git unstage`
+* `git reset head`
 ### _________________
 
 ## Stage changes:
