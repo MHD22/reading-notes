@@ -1,11 +1,11 @@
 
-# Welcome to my website :heart_eyes:
+# Welcome to my website 
 
-###you will find some interesting topics here, enjoy with reading them.
+### you will find some interesting topics here, enjoy with reading them.
 
 
-The topic        | Go To 
----------------------
+The topic                        | Go To 
+---------------------------------------------------------------------------
 Growth mindset                   | [Click here to read](https://mhd22.github.io/reading-notes/growth_mindset)
 Learn markdown                   | [Click here to read](https://mhd22.github.io/reading-notes/learn-markdown)
 Linux & terminal (some commands) | [Click here to read](https://mhd22.github.io/reading-notes/read02)
