@@ -1,4 +1,4 @@
-------------- [Return To The Home Page](https://mhd22.github.io/reading-notes/growth_mindset)
+------------- [Return To The Home Page](https://mhd22.github.io/reading-notes/)
 
 
 # What is a growth mindset?

@@ -5,13 +5,13 @@
 
 
 
-- **Growth mindset**   ==>   [Click here to read](https://mhd22.github.io/reading-notes/growth_mindset)
+- [Growth mindset](https://mhd22.github.io/reading-notes/growth_mindset)
 
-- **Learn markdown**   ==>  [Click here to read](https://mhd22.github.io/reading-notes/learn-markdown)
+- [Learn markdown](https://mhd22.github.io/reading-notes/learn-markdown)
 
-- **Linux & terminal (some commands)** ==> [Click here to read](https://mhd22.github.io/reading-notes/read02)
+- [Linux & terminal (some commands)](https://mhd22.github.io/reading-notes/read02)
 
-- **Git & GitHub**     ==>  [Click here to read](https://mhd22.github.io/reading-notes/read03)   
+- [Git & GitHub](https://mhd22.github.io/reading-notes/read03)   
 
 
 

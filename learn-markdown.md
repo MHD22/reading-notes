@@ -63,6 +63,7 @@ and
 ![Image](src)
 ```
 * Task lists:
+
 ```
 - [x] Finish my changes
 - [ ] Push my commits to GitHub
