@@ -13,8 +13,8 @@
 * Different types of selectors allow you to target your rules at different elements.
 
 * Declarations are made up of two parts: 
- * the properties of the element that you want to change. 
- * the values of those properties. 
+  1. the properties of the element that you want to change. 
+  2. the values of those properties. 
 For example, the font-family property sets the choice of font, and the value arial specifies Arial as the preferred typeface.
 
 * CSS rules usually appear in a separate document, although they may appear within an HTML page.
@@ -26,9 +26,9 @@ For example, the font-family property sets the choice of font, and the value ari
 * Color not only brings your site to life, but also helps convey the mood and evokes reactions.
 
 * There are three ways to specify colors in CSS:
- 1. RGB values.
- 2. hex codes.
- 3. and color names.
+  1. RGB values.
+  2. hex codes.
+  3. and color names.
 
 * Color pickers can help you find the color you want.
 
