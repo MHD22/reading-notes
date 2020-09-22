@@ -1,7 +1,7 @@
 
-# HTML & CSS
+# HTML
 
-## There is some interesting information about html & css: 
+## There is some interesting information about html:
 
 
 ### ________________________________________
